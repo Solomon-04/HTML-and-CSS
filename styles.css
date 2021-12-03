@@ -1,0 +1,35 @@
+h1{
+    color: brown;
+    background-color: gray;
+    font-size: 100px;
+    text-decoration: underline;
+    font-family: arial;
+    text-align: center;
+}
+
+p{
+    color: black;
+    text-align: right;
+    line-height: 30px;
+    letter-spacing: 3px;
+    column-count: 3;
+    column-gap: 60ps;
+}
+
+h2{
+    color: brown;
+}
+
+form{
+    background-color: rgb(59, 81, 155);
+}
+
+ul{
+    /*border-width: 4px;
+    border-style: solid;
+    border-color: brown;*/
+    border-bottom: 4px dotted brown;
+    border-left: 8px dashed crimson;
+    
+
+}
